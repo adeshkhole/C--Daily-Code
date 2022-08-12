@@ -51,4 +51,3 @@ string rtrim(const string &str) {
     );
 
     return s;
-}
