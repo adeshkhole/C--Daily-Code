@@ -22,6 +22,9 @@ int main()
     //     cout<<array[i]<<endl;
     //     i++;
     // }
+
+
+    // do while loop
     do
     {
         cout<<array[i]<<endl;
